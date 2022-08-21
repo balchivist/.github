@@ -126,14 +126,15 @@
     },
     {
         "name": "type: bug",
-        "color": "e74c3c",
+        "color": "d73a4a",
+        "description": "Issies that indicate that there is something wrong with the software",
         "aliases": [
             "bug"
         ]
     },
     {
         "name": "type: chore",
-        "color": "990000",
+        "color": "76d7c4",
         "description": "Issues that don't affect the codebase but are necessary to keep the project running"
     },
     {
