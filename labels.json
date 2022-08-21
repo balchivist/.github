@@ -1,0 +1,165 @@
+[
+    {
+        "name": "dependencies",
+        "color": "0366d6",
+        "description": "Pull requests that update a dependency file"
+    },
+    {
+        "name": "good first issue",
+        "color": "7057ff",
+        "description": "Issues that are suitable for newcomers"
+    },
+    {
+        "name": "hacktoberfest-accepted",
+        "color": "ff8ae2",
+        "description": "Pull requests that are accepted as part of DigitalOcean's Hacktoberfest"
+    },
+    {
+        "name": "priority: critical",
+        "color": "b60205",
+        "description": "Issues and/or pull requests that should be resolved/merged as soon as possible"
+    },
+    {
+        "name": "priority: high",
+        "color": "c73635",
+        "description": "Issues and/or pull requests that should be resolved/merged within the next 3 months"
+    },
+    {
+        "name": "priority: medium",
+        "color": "d86965",
+        "description": "Issues and/or pull requests that should be resolved/merged within the next 6 months"
+    },
+    {
+        "name": "priority: low",
+        "color": "e89d94",
+        "description": "Issues and/or pull requests that should be resolved/merged within the next 1 year"
+    },
+    {
+        "name": "priority: trivial",
+        "color": "f9d0c4",
+        "description": "Issues and/or pull requests that should be resolved/merged when time permits"
+    },
+    {
+        "name": "status: approved",
+        "color": "0e8a16",
+        "description": "Issues and/or pull requests that have been approved to be worked on, or to be merged soon"
+    },
+    {
+        "name": "status: blocked",
+        "color": "cb4335",
+        "description": "Issues and/or pull requests that are blocked by another issue and/or pull request"
+    },
+    {
+        "name": "status: do not merge",
+        "color": "cb4335",
+        "description": "Pull requests that should not be merged at the current state"
+    },
+    {
+        "name": "status: duplicate",
+        "color": "aeb6bf",
+        "description": "Issues and/or pull requests that are duplicates of another issue and/or pull request",
+        "aliases": [
+            "duplicate"
+        ]
+    },
+    {
+        "name": "status: help wanted",
+        "color": "bfe5bf",
+        "description": "Issues and/or pull requests that are in need of help",
+        "aliases": [
+            "help wanted"
+        ]
+    },
+    {
+        "name": "status: invalid",
+        "color": "aeb6bf",
+        "description": "Issues and/or pull requests that are invalid/spam",
+        "aliases": [
+            "invalid"
+        ]
+    },
+    {
+        "name": "status: needs info",
+        "color": "b4ba96",
+        "description": "Issues and/or pull requests that need more information before it can proceed",
+        "aliases": [
+            "question"
+        ]
+    },
+    {
+        "name": "status: on hold",
+        "color": "644638",
+        "description": "Issues and/or pull requests that are put on hold until a later date"
+    },
+    {
+        "name": "status: review needed",
+        "color": "2980b9",
+        "description": "Pull requests that are pending review by maintainers"
+    },
+    {
+        "name": "status: stale",
+        "color": "d0d3d4",
+        "description": "Pull requests that do not have any activity in the last 30 days"
+    },
+    {
+        "name": "status: triage needed",
+        "color": "2980b9",
+        "description": "Issues that are pending triage and confirmation by maintainers"
+    },
+    {
+        "name": "status: under investigation",
+        "color": "f4d03f",
+        "description": "Issues that are currently under investigation by maintainers"
+    },
+    {
+        "name": "status: wontfix",
+        "color": "aeb6bf",
+        "description": "Issues that have been rejected by the maintainers",
+        "aliases": [
+            "wontfix"
+        ]
+    },
+    {
+        "name": "status: work in progress",
+        "color": "6c3483",
+        "description": "Issues and/or pull requests that are currently a work in progress by someone"
+    },
+    {
+        "name": "type: bug",
+        "color": "e74c3c",
+        "aliases": [
+            "bug"
+        ]
+    },
+    {
+        "name": "type: chore",
+        "color": "990000",
+        "description": "Issues that don't affect the codebase but are necessary to keep the project running"
+    },
+    {
+        "name": "type: docs",
+        "color": "f9e79f",
+        "description": "Issues that are related to the documentation",
+        "aliases": [
+            "documentation"
+        ]
+    },
+    {
+        "name": "type: feature request",
+        "color": "f4abec",
+        "description": "Issues that propose a new feature to be included in the software",
+        "aliases": [
+            "enhancement"
+        ]
+    },
+    {
+        "name": "type: maintenance",
+        "color": "28375c",
+        "description": "Issues that are related to the maintenance of the project"
+    },
+    {
+        "name": "type: testing",
+        "color": "aed6f1",
+        "description": "Issues that are related to the test suite"
+    }
+]
